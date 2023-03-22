@@ -28,8 +28,9 @@ Python, SQL, R, Java, C
 
 ✨ Other Profiles:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nahushamane)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg' alt='hackerearth' height='40'>](https://www.hackerearth.com/@nahushamane)
+1. [linkedin](https://www.linkedin.com/in/nahushamane/)
+2. [hackerrank](https://www.hackerearth.com/@nahushamane)
+3. [hackerearth](https://www.hackerrank.com/nahushamane)
 
 ✨ My Stats:
 
