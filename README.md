@@ -34,7 +34,7 @@ Python, SQL, R, Java, C
 
 ✨ My Stats:
 
-![Profile views](https://gpvc.arturio.dev/nahushamane) 
+![Profile views](https://gpvc.arturio.dev/nahushamane)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nahushamane&show_icons=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahushamane)](https://github.com/anuraghazra/github-readme-stats)  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nahushamane)  
