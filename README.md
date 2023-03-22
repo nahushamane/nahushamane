@@ -20,7 +20,7 @@ Hi there! My name is Nahush Amane, and I'm from Canada. I hold a Bachelor's Degr
 
 ✨ My Skills: 
 
-Python, SQL, Java
+Python, SQL, R, Java, C
 
 ✨ My Stats:
 
