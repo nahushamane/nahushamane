@@ -31,6 +31,7 @@ Python, SQL, R, Java, C
 1. [linkedin](https://www.linkedin.com/in/nahushamane/)
 2. [hackerrank](https://www.hackerearth.com/@nahushamane)
 3. [hackerearth](https://www.hackerrank.com/nahushamane)
+4. [leetcode](https://leetcode.com/nahushamane/)
 
 ✨ My Stats:
 
