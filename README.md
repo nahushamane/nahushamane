@@ -34,6 +34,6 @@ Python, SQL, R, Java, C
 
 ✨ Other Profiles:
 
-1. ![linkedin](https://www.linkedin.com/in/nahushamane/)
-2. ![hackerearch](https://www.hackerearth.com/@nahushamane)
-3. ![hackerrank](https://www.hackerrank.com/nahushamane)
+1. [linkedin](https://www.linkedin.com/in/nahushamane/)
+2. [hackerearch](https://www.hackerearth.com/@nahushamane)
+3. [hackerrank](https://www.hackerrank.com/nahushamane)
