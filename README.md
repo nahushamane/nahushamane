@@ -25,3 +25,8 @@ Python, SQL, Java
 ✨ My Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahushamane)](https://github.com/anuraghazra/github-readme-stats)
+
+✨ Other Profiles:
+
+https://www.hackerearth.com/@nahushamane
+https://www.hackerrank.com/nahushamane
