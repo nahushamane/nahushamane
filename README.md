@@ -28,13 +28,12 @@ Python, SQL, R, Java, C
 
 ✨ Other Profiles:
 
-1. [linkedin](https://www.linkedin.com/in/nahushamane/)
-2. [hackerearch](https://www.hackerearth.com/@nahushamane)
-3. [hackerrank](https://www.hackerrank.com/nahushamane)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nahushamane)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg' alt='hackerearth' height='40'>](https://www.hackerearth.com/@nahushamane)
 
 ✨ My Stats:
 
 ![Profile views](https://gpvc.arturio.dev/nahushamane)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nahushamane&show_icons=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahushamane)](https://github.com/anuraghazra/github-readme-stats)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nahushamane&show_icons=true)  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nahushamane)  
