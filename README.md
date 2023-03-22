@@ -13,10 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, My name is Nahush
+### Hi there 👋, My name is ![Nahush](https://github.com/nahushamane)
 #### Data Science | Machine Learning
-
-(https://github.com/nahushamane)
 
 Hi there! My name is Nahush Amane, and I'm from Canada. I hold a Master's degree in Digital Transformation and Innovation with a concentration in Data Science. Currently, I work as a Junior Analyst at the CRA, where I use my skills in SQL, Python, and Java development to analyze and interpret data. I am particularly interested in machine learning and enjoy exploring its applications in the industry. Thanks for stopping by!
 
