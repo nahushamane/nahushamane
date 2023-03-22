@@ -28,5 +28,5 @@ Python, SQL, Java
 
 ✨ Other Profiles:
 
-https://www.hackerearth.com/@nahushamane
-https://www.hackerrank.com/nahushamane
+1. https://www.hackerearth.com/@nahushamane
+2. https://www.hackerrank.com/nahushamane
