@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, My name is Nahush
+### Hi there 👋, I'm Nahush
 #### I am a Data Science enthusiast
 
 I hold a Bachelor's Degree in Information Technology and a Master's degree in Digital Transformation and Innovation with a concentration in Data Science.  
