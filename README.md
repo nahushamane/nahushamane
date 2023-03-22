@@ -20,11 +20,17 @@ I hold a Bachelor's Degree in Information Technology and a Master's degree in Di
 Currently, I work as a Junior Analyst at the CRA, where I use my skills in SQL and Python to analyze and interpret data.  
 I am particularly interested in machine learning and enjoy exploring its applications in the industry. Thanks for stopping by!  
 
+----------------------------------------------------------------------  
+
 ✨ My Skills: 
 
 Python, SQL, R, Java, C
 
+----------------------------------------------------------------------  
+
 ✨ My Certifications:
+
+----------------------------------------------------------------------  
 
 ✨ Other Profiles:
 
@@ -32,6 +38,8 @@ Python, SQL, R, Java, C
 2. [hackerrank](https://www.hackerearth.com/@nahushamane)
 3. [hackerearth](https://www.hackerrank.com/nahushamane)
 4. [leetcode](https://leetcode.com/nahushamane/)
+
+----------------------------------------------------------------------  
 
 ✨ My Stats:
 
