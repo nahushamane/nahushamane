@@ -24,11 +24,16 @@ I am particularly interested in machine learning and enjoy exploring its applica
 
 Python, SQL, R, Java, C
 
+✨ My Certifications:
+
+
+
 ✨ My Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahushamane)](https://github.com/anuraghazra/github-readme-stats)
 
 ✨ Other Profiles:
 
-1. https://www.hackerearth.com/@nahushamane
-2. https://www.hackerrank.com/nahushamane
+1. ![linkedin](https://www.linkedin.com/in/nahushamane/)
+2. ![hackerearch](https://www.hackerearth.com/@nahushamane)
+3. ![hackerrank](https://www.hackerrank.com/nahushamane)
