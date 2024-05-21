@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 #### I am a Data Science enthusiast
 
 I hold a Bachelor's Degree in Information Technology and a Master's degree in Digital Transformation and Innovation with a concentration in Data Science.  
-Currently, I work as a Junior Analyst at the CRA, where I use my skills in SQL and Python to analyze and interpret data.  
+Currently, I work as a Research and Analysis Officer at the CRA, where I use my skills in SQL and Python to analyze and interpret data.  
 I am particularly interested in machine learning and enjoy exploring its applications in the industry. Thanks for stopping by!  
 
 ----------------------------------------------------------------------  
